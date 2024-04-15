@@ -1,1 +1,1 @@
-console.log("Yolo badge purpose")
+const pair = 'extraordinaire';
